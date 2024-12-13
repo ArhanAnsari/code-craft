@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://enabling-alien-47.clerk.accounts.dev/",
+      domain: "moving-katydid-18.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
